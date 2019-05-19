@@ -1,0 +1,22 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Desarrollado por Juan David Vallejo Restrepo",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdvallejor/tarea1.git"
+  },
+  "author": "Juan David Vallejo jdvallejor@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdvallejor/tarea1/issues"
+  },
+  "homepage": "https://github.com/jdvallejor/tarea1#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
